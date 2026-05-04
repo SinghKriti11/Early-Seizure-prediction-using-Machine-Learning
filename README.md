@@ -1,6 +1,5 @@
 ﻿# 🧠 Early-Seizure-prediction-using-Machine-Learning
 
-
 ## 📌 Project Overview
 This project focuses on detecting **epileptic seizures** using EEG (Electroencephalogram) signal data through machine learning techniques. The goal is to build a reliable classification model that can distinguish between **epileptic (seizure) and non-epileptic brain activity**.
 
