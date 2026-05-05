@@ -7,7 +7,6 @@ The project follows a complete **end-to-end machine learning pipeline**, includi
 
 ---
 
-
 ## 🎯 Objectives
 - Detect epileptic seizures using EEG features  
 - Compare multiple machine learning models  
