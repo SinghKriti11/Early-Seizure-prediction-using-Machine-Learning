@@ -2,6 +2,7 @@
 
 ## 📌 Project Overview
 This project focuses on detecting **epileptic seizures** using EEG (Electroencephalogram) signal data through machine learning techniques. The goal is to build a reliable classification model that can distinguish between **epileptic (seizure) and non-epileptic brain activity**.
+
 The project follows a complete **end-to-end machine learning pipeline**, including preprocessing, feature engineering, model training, optimization, and evaluation.
 
 ---
