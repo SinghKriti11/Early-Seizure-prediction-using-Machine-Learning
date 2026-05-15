@@ -14,6 +14,7 @@ The project follows a complete **end-to-end machine learning pipeline**, includi
 - Improve model performance using optimization techniques  
 - Identify important EEG features contributing to prediction  
 
+
 ---
 
 ## 📂 Dataset
