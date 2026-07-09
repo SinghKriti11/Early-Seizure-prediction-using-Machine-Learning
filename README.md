@@ -11,7 +11,7 @@ The project follows a complete **end-to-end machine learning pipeline**, includi
 - Detect epileptic seizures using EEG features   
 - Compare multiple machine learning models   
 - Handle class imbalance effectively  
-- Improve model performance using optimization techniques  
+- Improve model performance using optimization techniques   
 - Identify important EEG features contributing to prediction   
 
 ---
