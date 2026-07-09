@@ -17,7 +17,7 @@ The project follows a complete **end-to-end machine learning pipeline**, includi
 ---
 
 ## 📂 Dataset
-- EEG dataset with extracted features (power bands, statistical features, etc.)  
+- EEG dataset with extracted features (power bands, statistical features, etc.)   
 - ~2200 samples  
 - ~600+ features  
 - Target column:
