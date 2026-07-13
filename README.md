@@ -21,7 +21,7 @@ The project follows a complete **end-to-end machine learning pipeline**, includi
 - ~2200 samples  
 - ~600+ features  
 - Target column:
-  - `0` → Non-epileptic  
+  - `0` → Non-epileptic   
   - `1` → Epileptic  
 
 ---
