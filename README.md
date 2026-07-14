@@ -58,7 +58,7 @@ The project follows a complete **end-to-end machine learning pipeline**, includi
 
 ---
 
-### 🔹 5. Feature Scaling
+### 🔹 5. Feature Scaling 
 - Applied **RobustScaler** for scaling  
 - Ensured consistent transformation for test data  
 
