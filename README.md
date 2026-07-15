@@ -26,7 +26,7 @@ The project follows a complete **end-to-end machine learning pipeline**, includi
 
 ---
 
-## ⚙️ Workflow
+## ⚙️ Workflow 
 
 ### 🔹 1. Data Analysis (EDA)
 - Explored dataset structure and feature distributions  
