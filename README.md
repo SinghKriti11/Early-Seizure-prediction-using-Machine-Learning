@@ -64,7 +64,7 @@ The project follows a complete **end-to-end machine learning pipeline**, includi
 
 ---
 
-### 🔹 6. Model Training
+### 🔹 6. Model Training 
 - Implemented multiple models:
   - Logistic Regression (Baseline)  
   - Support Vector Machine (SVM)  
