@@ -52,7 +52,7 @@ The project follows a complete **end-to-end machine learning pipeline**, includi
 
 ---
 
-### 🔹 4. Handling Class Imbalance
+### 🔹 4. Handling Class Imbalance 
 - Applied **SMOTE (Synthetic Minority Oversampling Technique)**  
 - Performed only on training data to prevent data leakage  
 
