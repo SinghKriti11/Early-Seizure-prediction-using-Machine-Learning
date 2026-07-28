@@ -106,7 +106,7 @@ The project follows a complete **end-to-end machine learning pipeline**, includi
 - ROC Curve analysis  
 - Confusion Matrix visualization  
 - Feature importance analysis  
-- Identified key EEG features contributing to prediction  
+- Identified key EEG features contributing to prediction   
 
 ---
 
