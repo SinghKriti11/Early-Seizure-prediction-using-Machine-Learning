@@ -12,7 +12,7 @@ The project follows a complete **end-to-end machine learning pipeline**, includi
 - Compare multiple machine learning models   
 - Handle class imbalance effectively  
 - Improve model performance using optimization techniques    
-- Identify important EEG features contributing to prediction     
+- Identify important EEG features contributing to prediction       
 
 ---
 
